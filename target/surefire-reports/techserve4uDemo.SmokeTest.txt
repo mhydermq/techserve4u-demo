@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: techserve4uDemo.SmokeTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.352 s - in techserve4uDemo.SmokeTest

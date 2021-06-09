@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10180" started-at="2021-06-09T06:45:37 EDT" finished-at="2021-06-09T06:45:47 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10180" started-at="2021-06-09T06:45:37 EDT" finished-at="2021-06-09T06:45:47 EDT">
+      <class name="techserve4uDemo.SmokeTest">
+        <test-method status="PASS" signature="driverSetup()[pri:0, instance:techserve4uDemo.SmokeTest@5faeada1]" name="driverSetup" is-config="true" duration-ms="6105" started-at="2021-06-09T06:45:37 EDT" finished-at="2021-06-09T06:45:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method status="PASS" signature="testPageTitle()[pri:0, instance:techserve4uDemo.SmokeTest@5faeada1]" name="testPageTitle" duration-ms="2076" started-at="2021-06-09T06:45:43 EDT" finished-at="2021-06-09T06:45:45 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:techserve4uDemo.SmokeTest@5faeada1]" name="tearDown" is-config="true" duration-ms="1944" started-at="2021-06-09T06:45:45 EDT" finished-at="2021-06-09T06:45:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- techserve4uDemo.SmokeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
